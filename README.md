@@ -6,7 +6,7 @@
 2 - Spring Boot<br>
 3 - JPA<br>
 4 - Hibernate<br>
-8 - Rest, RESFULL<br>
+8 - Rest, Restfull<br>
 9 - PostgreSQL<br>
 
 #Informações
