@@ -12,7 +12,7 @@
 ## Observações
 
 * Classe com metodo main, com as anotações necessarias para trabalhar com Hibernate SpringBoot, Rest, SpringMvc<br>
-* Projeto já está configurado para criar tabelas automanticas com Hibernate<br>
+* Projeto já está configurado para criar tabelas automaticas com Hibernate<br>
 * Back-end<br>
 * Classe modelo Usuario modelo<br>
 * IndexController anotado com o @RestController para manipular os metodos REST e @RequestMapping para usuario<br>
