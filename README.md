@@ -12,7 +12,7 @@
 
 #Informações
 
-* Não contem telas, para teste da API foi utilzado o PostMan, chamando os metodos do IndexController
+* Contem o Back-End, para teste da API foi utilzado o PostMan, chamando os metodos do IndexController
 * Projeto criado com Spring boot starter 2.3.0
 * O projeto já está configurado para gerar tabelas automaticas com Hibernate
 * Contem a classe IndexController.java, anotada com o @RestController para aceitar os metodos REST
