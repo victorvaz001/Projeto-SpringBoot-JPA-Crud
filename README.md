@@ -2,12 +2,12 @@
 
 ## Tecnologias
 
-1 - Java 1.8
-2 - Spring Boot
-3 - JPA
-4 - Hibernate
-8 - Rest, RESFULL
-9 - PostgreSQL
+1 - Java 1.8<br>
+2 - Spring Boot<br>
+3 - JPA<br>
+4 - Hibernate<br>
+8 - Rest, RESFULL<br>
+9 - PostgreSQL<br>
 
 #Informações
 
