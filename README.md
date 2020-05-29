@@ -1,6 +1,6 @@
-## Api com SpringBoot JPA
+# Api com SpringBoot JPA
 
-# Tecnologias
+## Tecnologias
 
 * Java 1.08<br>
 * Spring Boot<br>
@@ -9,7 +9,7 @@
 * Hibernate<br>
 * PotgreSQL<br>
 
-# Observações
+## Observações
 
 * Classe com metodo main, com as anotações necessarias para trabalhar com Hibernate SpringBoot, Rest, SpringMvc<br>
 * Projeto já está configurado para criar tabelas automanticas com Hibernate<br>
@@ -19,5 +19,5 @@
 * applications.properties configurado para trabalhar com o Hibernate e postgres<br>
 
 
-# Testes
+## Testes
 * Todos os testes da API foram feitos com o Postman
