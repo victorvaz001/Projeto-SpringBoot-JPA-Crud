@@ -20,4 +20,8 @@
 
 
 ## Testes
-* Todos os testes da API foram feitos com o Postman
+* Nao e necessario criar tabelas, o projeto ja está configurado para criaçao automatica
+* Testes da API foram feitos com o Postman
+* Para testes com o arquivo .jar, abrir o arquivo .jar que eseta no projeto, ir no navedor e digitar, http://localhost:8080/cursospringapi/usuarios/
+* Para testar o projeto, devera ter o postgres e criar um banco de dados com usuario e senha, alterar o no arquivo de persistencia
+
