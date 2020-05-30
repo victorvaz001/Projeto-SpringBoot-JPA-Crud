@@ -12,7 +12,7 @@
 	<groupId>com.api.rest</groupId>
 	<artifactId>cursospringapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>cursospringapi</name>
 	<description>Curso API REST Spring Boot</description>
 
